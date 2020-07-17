@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**wise4rmgod/wise4rmgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wise4rmgod/wise4rmgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -12,8 +12,7 @@ My name is Nwokocha Wisdom Maduabuchi. I'm an Android Engineer at Savics
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: Twitter,LinkedIn
-- 😄 Pronouns: ...
 - ⚡ Fun fact: am a comedian, I love football, music and movies
--->
+
 
 Thanks for checking out my profile.
