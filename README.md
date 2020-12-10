@@ -1,4 +1,4 @@
-![profile](https://media-exp1.licdn.com/dms/image/C4D16AQH_kYEq6kGdzg/profile-displaybackgroundimage-shrink_350_1400/0/1541935707075?e=1613001600&v=beta&t=9kfHkBXFblgNPn8gyIbCvmw4raR2DAPLSIwDrcb_y7M)
+![profile](https://miro.medium.com/max/1054/1*yxdy3UX6x1a6vMWWDCN8lw.jpeg)
 
 <!--
 **wise4rmgod/wise4rmgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
