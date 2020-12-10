@@ -1,4 +1,4 @@
-![profile](https://user-images.githubusercontent.com/6759031/99658318-a006ec00-2a5f-11eb-92e3-cc12faf14dc6.jpg)
+![profile](https://media-exp1.licdn.com/dms/image/C4D16AQH_kYEq6kGdzg/profile-displaybackgroundimage-shrink_350_1400/0/1541935707075?e=1613001600&v=beta&t=9kfHkBXFblgNPn8gyIbCvmw4raR2DAPLSIwDrcb_y7M)
 
 <!--
 **wise4rmgod/wise4rmgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -49,7 +49,7 @@
 
 #### Currently working at:
 
-- [Android Engineer @ Savics](https://www.ksinnovationhub.com/)
+- [Android Engineer @ Savics](https://savics.org/team/)
 
 #### Volunteer Experience
 
