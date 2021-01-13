@@ -12,7 +12,7 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/Joklinztech),[LinkedIn](https://www.linkedin.com/in/wisdom-nwokocha-76212a77/)
 - ⚡ Fun fact: am a comedian, I love football, music, writing and movies
 
-[Visitor Count](https://profile-counter.glitch.me/{wise4rmgod}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{wise4rmgod}/count.svg)
 
 #### Some blog posts
 
