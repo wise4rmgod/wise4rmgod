@@ -51,7 +51,7 @@
 #### Currently working at:
 
 - [Android Engineer @ Savics](https://savics.org/team/)
-- [Senior Technical writer @ Draft.dev](http://draft.dev/)
+- [Senior Freelance Technical writer @ Draft.dev](http://draft.dev/)
 
 #### Volunteer Experience
 
