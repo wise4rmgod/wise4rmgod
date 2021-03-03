@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on all things mobile/ technical article
 - 🌱 I sometimes write tech articles on https://wise4rmgodadmob.medium.com/
-- 👯 I’m looking to collaborate on Android,IOS and Flutter, Firebase projects
+- 👯 I’m looking to collaborate on Android,IOS and Flutter, Firebase projects, Eleventy, Docsify, MkDocs.
 - 📫 How to reach me: [Twitter](https://twitter.com/Joklinztech),[LinkedIn](https://www.linkedin.com/in/wisdom-nwokocha-76212a77/)
 - ⚡ Fun fact: am a comedian, I love football, music, writing and movies
 
@@ -51,12 +51,15 @@
 #### Currently working at:
 
 - [Android Engineer @ Savics](https://savics.org/team/)
+- [Senior Technical writer @ Draft.dev](http://draft.dev/)
 
 #### Volunteer Experience
 
-- Andela Learning Community (ALC) Facilitator/Mentor
+- Andela Learning Community (ALC) as a (Lead Facilitator/Mentor)
 
-- Ardejob(Android developers remote job) Lead organizer
+- Techrity as a (Community Manager)
+
+- Ardejob(Android developers remote job) as the (Lead) 
 
 - [Bitrise Expert](https://www.bitrise.io/community/experts-program)
 
