@@ -4,11 +4,11 @@
 **wise4rmgod/wise4rmgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <h1 align="center">Hi there 👋, I'm Wisdom</h1>
 
-<p align="center"><b>I consider myself first to be a software developer/Open Source Lover/technical documentation engineer, I'm passionate about Technology and how it can be leveraged to affect communities positively. I'm focused on developing for the Android/SwiftUI, Flutter and Firebase Platforms.</b></p>
+<p align="center"><b>I consider myself first to be a software developer/Open Source Lover/technical documentation engineer, I'm passionate about Technology and how it can be leveraged to affect communities positively. I'm focused on developing for the Android, Blockchain and Firebase Platforms.</b></p>
 
 - 🔭 I’m currently working on all things mobile/ technical article
 - 🌱 I sometimes write tech articles on https://wise4rmgodadmob.medium.com/
-- 👯 I’m looking to collaborate on Android,IOS and Flutter, Firebase projects, Eleventy, Docsify, MkDocs.
+- 👯 I’m looking to collaborate on Android,IOS and Blockchain, Firebase projects, Eleventy, Docsify, MkDocs.
 - 📫 How to reach me: [Twitter](https://twitter.com/Joklinztech),[LinkedIn](https://www.linkedin.com/in/wisdom-nwokocha-76212a77/)
 - ⚡ Fun fact: am a comedian, I love football, music, writing and movies
 
