@@ -50,7 +50,7 @@
 
 #### Currently working at:
 
-- [Android Engineer @ Savics](https://savics.org/team/)
+- [Technical Writer @ Tatum](https://tatum.io/)
 - [Senior Freelance Technical writer @ Draft.dev](http://draft.dev/)
 
 #### Volunteer Experience
