@@ -50,16 +50,15 @@
 
 #### Currently working at:
 
-- [Technical Writer @ Tatum](https://tatum.io/)
-- [Senior Freelance Technical writer @ Draft.dev](http://draft.dev/)
+- [Technical Documentation Engineer @ Accumulate](https://accumulatenetwork.io/)
 
 #### Volunteer Experience
 
 - Andela Learning Community (ALC) as a (Lead Facilitator/Mentor)
 
-- Techrity as a (Community Manager)
+- Hertechtrail as a (Program Manager)
 
-- Ardejob(Android developers remote job) as the (Lead) 
+- Angelcryptolist community as the (Lead) 
 
 - [Bitrise Expert](https://www.bitrise.io/community/experts-program)
 
