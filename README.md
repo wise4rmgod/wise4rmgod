@@ -48,9 +48,6 @@
 <img src ="https://img.shields.io/badge/tech community builder-%2307405e.svg?&style=for-the-badge&logo=community&logoColor=white"/>
 </p>
 
-#### Currently working at:
-
-- [Technical Documentation Engineer @ Accumulate](https://accumulatenetwork.io/)
 
 #### Volunteer Experience
 
