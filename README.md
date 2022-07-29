@@ -1,4 +1,4 @@
-![profile](https://miro.medium.com/max/1054/1*yxdy3UX6x1a6vMWWDCN8lw.jpeg)
+![profile](https://s3.us-west-1.wasabisys.com/idbwmedia.com/images/api/limitstodocsascode.svg)
 
 <!--
 **wise4rmgod/wise4rmgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
