@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on all things Android/ dBuilding / maintaining ocumentation 
 - 🌱 I sometimes write tech articles on https://wise4rmgodadmob.medium.com/
 - 👯 I’m looking to collaborate on Android,IOS and Blockchain, Firebase projects, Eleventy, Docsify, MkDocs.
-- 📫 How to reach me: [Twitter](https://twitter.com/Joklinztech),[LinkedIn](https://www.linkedin.com/in/wisdom-nwokocha-76212a77/)
+- 📫 How to reach me: [Twitter](https://twitter.com/Joklinztech), [LinkedIn](https://www.linkedin.com/in/wisdom-nwokocha-76212a77/), [Youtube](https://www.youtube.com/c/techtalkzzz)
 - ⚡ Fun fact: am a comedian, I love football, music, writing and movies
 
 ![Visitor Count](https://profile-counter.glitch.me/{wise4rmgod}/count.svg)
